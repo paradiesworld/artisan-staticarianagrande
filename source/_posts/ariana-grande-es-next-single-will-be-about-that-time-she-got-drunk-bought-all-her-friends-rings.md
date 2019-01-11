@@ -11,7 +11,7 @@ tags:
   - ariana grande video
   - ariana songs
   - 7 Rings
-image: arianagr7ring.jpg
+image: ariana7ring.jpg
 comments: false
 ---
 Ariana Grande hat "7 Ringe" geneckelt, seit der Streckenname ein Nummernschild im "Danke, next"-Video war. Jetzt hat der Song Albumkunst, ein Veröffentlichungsdatum und eine charmant #richpeopleproblems Backstory. Laut Ari handelt es sich bei dem Song um die Zeit, in der Grande bei Tiffany betrunken wurde und sie und ihre sechs Bestien passend für Verlobungsringe kaufte. Nach einem schlechten Tag in New York brachten sie Aris Buden zu Truman Capotes Lieblings-Juwelier. "" Weißt du, wie, wenn du auf Tiffany wartest, sind sie dir viel Champagner? "Fragte sie Billboard. Okay, lassen Sie uns so tun, als wüssten wir das alle. "Sie haben uns sehr tipsy bekommen, also kauften wir sieben Verlobungsringe, und als ich wieder ins Studio kam, gab ich allen einen Freundschaftsring." Auf Twitter sagte Grande, es gebe tatsächlich 9 Ringe (Herr der Ringe ref?), weil sie später auch zwei für ihre Mutter und Nonna gekauft habe. Sie listete auch auf, welche Freunde das Bling bekommen haben.
