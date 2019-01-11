@@ -3,7 +3,7 @@
 @section('content')
     <h1>Herzlich willkommen Ariana Grande Blog</h1>
     
-    <img src="https://i.ytimg.com/vi/a5XMhhZMBzs/maxresdefault.jpg" alt="Ariana Grande" height="500" width="600">
+    <img src="https://i.ytimg.com/vi/a5XMhhZMBzs/maxresdefault.jpg" alt="Ariana Grande" height="800" width="900">
 
     <h2>Ariana Grande ist ein Star</h2>
 
