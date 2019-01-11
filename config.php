@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Ariana Grande Blog',
+        'description' => 'Willkommen bei Ariana Grande Blog. Hier finden Sie alle Informationen über Ariana, Songs, Videos, Awards, Geschichten und vieles mehr über grande life style..',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Ariana Fan',
+        'twitter' => '',
+        'github' => '',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
