@@ -4,12 +4,7 @@ title: >-
   Davidson verstehen
 date: 2019-01-11T08:50:09.722Z
 tags:
-  - Popkultur
-  - Ariana Grande
-  - Pete Davidson
-  - Ariana Grande Video
-  - Geschichte
-  - '2019'
+  - ''
 comments: true
 ---
 Man kann das Jahr 2018 nicht wirklich beschreiben, ohne über Ariana Grande und Pete Davidson zu sprechen.
