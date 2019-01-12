@@ -2,11 +2,6 @@
 title: Ariana Grande erhält die Nummer 1 der Dance Club-Song-Charts
 date: 2019-01-11T08:17:31.500Z
 tags:
-  - Ariana Grande
-  - story
-  - song
-  - dance club song
-  - videos
   - ''
 image: ''
 comments: true
