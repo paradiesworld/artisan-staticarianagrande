@@ -4,13 +4,7 @@ title: >-
   All Her Friends Rings
 date: 2019-01-10T07:53:33.284Z
 tags:
-  - Ariana Grande
-  - Ariana
-  - ariana grande songs
-  - date ariane
-  - ariana grande video
-  - ariana songs
-  - 7 Rings
+  - ''
 image: ''
 comments: false
 ---
