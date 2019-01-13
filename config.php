@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://arianagrande.tk/',
     'site' => [
         'title' => 'Ariana Grande Blog',
         'description' => 'Willkommen bei Ariana Grande Blog. Hier finden Sie alle Informationen über Ariana, Songs, Videos, Awards, Geschichten und vieles mehr über grande life style..',
@@ -14,10 +14,10 @@ return [
         'github' => '',
     ],
     'services' => [
-        'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
-        'jumprock' => 'artisanstatic',
+        'analytics' => '',
+        'disqus' => '',
+        'cloudinary' => '',
+        'jumprock' => '',
     ],
     'collections' => [
         'posts' => [
